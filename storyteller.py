@@ -3,8 +3,6 @@
 Created on Tue Feb 15 19:23:47 2022
 
 @author: Jason Harris
-Individual Project 4
-CS379 Machine Learning Due 02/19/2022
 This code is to use Keras and tensorflow to learn and generate predictive text. 
 I utilized the tutorials at the following websites to build this code:
     https://www.activestate.com/resources/quick-reads/how-to-install-keras-and-tensorflow/
